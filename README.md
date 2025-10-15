@@ -11,6 +11,7 @@ Bu proje, Java ile yazılmış basit bir web sunucusu uygulamasıdır. Sunucu, y
 ## 🚀 Kurulum ve Çalıştırma
 
 > **ÖNEMLİ:** Bu proje **terminalden** çalıştırılmalıdır. IDE kullanmayın!
+> Çalıştırmadan önce **package** ifadesini silin.
 
 ### Adım 1: Dosyaları Derleyin
 
