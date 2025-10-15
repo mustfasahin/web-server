@@ -1,0 +1,44 @@
+body {
+  font-family: monospace;
+  background-color: rgba(189, 179, 179, 0.281);
+  text-align: center;
+  font-size: 15px;
+}
+
+.person-name {
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.school-number {
+  font-size: 18px;
+  color: #2e19ef;
+  opacity: 0.65;
+}
+
+.skills {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.skills-list {
+  list-style-type: none;
+  font-size: 14px;
+}
+
+li {
+  margin: 20px;
+}
+
+li:last-child {
+  margin: 0;
+}
+
+header {
+  line-height: 0.3;
+}
+
+article {
+  line-height: 1.4;
+}
