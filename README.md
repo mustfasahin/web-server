@@ -80,11 +80,12 @@ Sunucuyu durdurmak için terminalde `Ctrl + C` tuşlarına basın.
 - `index.html` ve `style.css` dosyalarının `WebServer.java` ile aynı dizinde olduğundan emin olun
 - Terminal'de doğru dizinde olduğunuzu kontrol edin
 
-## 👨‍💻 Yazar
+## 👤 Yazar
 
-**Mustafa Sahin**  
-Öğrenci No: 1240505081  
-Kırklareli Üniversitesi - Yazılım Mühendisliği
+**Mustafa**
+
+- GitHub: [@mustfasahin](https://github.com/mustfasahin)
+- Email: mstfasahn94@gmail.com
 
 ---
 
